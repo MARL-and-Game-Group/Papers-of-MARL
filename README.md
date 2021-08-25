@@ -8,13 +8,15 @@ Anyone is welcomed to submit a pull request for the related and unlisted papers 
 
 
 ## Contents
-- <a href="#Representation Learning">Representation Learning (for RL) </a><br>
-- <a href="#Sequence Modeling">Sequence Modeling </a><br>
-- <a href="#Conventional Offline-Reinforcement-Learning">Conventional Offline-Reinforcement-Learning </a><br>
+- [Offline RL](#offline-rl)
+  * [Representation Learning (for RL)](#representation-learning--for-rl)
+  * [Sequence Modeling](#sequence-modeling)
+  * [Conventional Offline-Reinforcement-Learning](#conventional-offline-reinforcement-learning)
+- [Graph-based MARL](#graph-based-marl)
+- [Coordination](#coordination)
 
 ## Offline RL
 
-<a id='Representation Learning'></a>
 ### Representation Learning (for RL)
 
 - [Provable Representation Learning for Imitation with Contrastive Fourier Features](https://arxiv.org/pdf/2105.12272.pdf)  
@@ -27,13 +29,11 @@ Reinforcement Learning](https://arxiv.org/pdf/2106.04799.pdf)
 - [Representation Matters: Offline Pretraining for Sequential Decision Making](https://arxiv.org/pdf/2102.05815.pdf)  
 
 
-<a id='Sequence Modeling'></a>
 ### Sequence Modeling
 
 - [Reinforcement Learning as One Big Sequence Modeling Problem](https://arxiv.org/pdf/2106.02039.pdf)
 - [Decision Transformer: Reinforcement Learning via Sequence Modeling](https://arxiv.org/pdf/2106.01345.pdf)[[code]](https://github.com/kzl/decision-transformer)
 
-<a id='Conventional Offline-Reinforcement-Learning'></a>
 ### Conventional Offline-Reinforcement-Learning
 
 - [Conservative Q-Learning for Offline Reinforcement Learning](https://arxiv.org/pdf/2006.04779.pdf) [[code]](https://github.com/aviralkumar2907/CQL)   
